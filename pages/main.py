@@ -125,34 +125,3 @@ class MainPage(WebPage):
     facebook_footer = WebElement(xpath='//footer/div[1]/div/div[5]/div[2]/a[@href="https://www.facebook.com/ozon.ru"]')
 
     social_networks_footer = ManyWebElements(xpath='//footer/div[1]/div/div[5]/div[2]/a')
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

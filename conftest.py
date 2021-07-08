@@ -28,4 +28,3 @@ def web_browser(request, selenium):
 
     # Return browser instance to test case:
     yield browser
-

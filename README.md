@@ -13,4 +13,3 @@
 2. Установить [Chromedriver](https://chromedriver.chromium.org/getting-started)
 
 3. Запустить тесты: (python3 или)python -m pytest -v --driver Chrome --driver-path <путь к chromedriver> tests/test_main_page.py
-
